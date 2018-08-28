@@ -1,0 +1,23 @@
+{
+  "name": "qingnv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zimuqingnv/qingnv.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zimuqingnv/qingnv/issues"
+  },
+  "homepage": "https://github.com/zimuqingnv/qingnv#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}

@@ -8,4 +8,6 @@ const accountCTRL = require(path.join(__dirname,"../controllers/accountControlle
 
 accountRouter.get('/login',accountCTRL.getLoginPage)
 
+accountRouter.get('./register',accountCTRL.getRegisterPage)
+
 module.exports = accountRouter
